@@ -1,6 +1,6 @@
 # Classifying RGB and RC stars
 
-In this project, we train machine learning models on asteroseismic data to distinguish red clump stars from red giant branch stars. The goal is to improve the efficiency of the classification process, making it more accessible for broader applications.
+In this notebook, I trained machine learning models on asteroseismic data to distinguish red clump stars from red giant branch stars. The goal is to improve the efficiency of the classification process, making it more accessible for broader applications.
 
 
 ### Models Used
