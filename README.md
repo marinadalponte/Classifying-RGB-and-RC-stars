@@ -8,11 +8,11 @@ In this project, we train machine learning models on asteroseismic data to disti
 The following machine learning models were tested:
 
 - Logistic Regression
-- Linear Discriminant Analysis (LDA)
-- K-Nearest Neighbors (KNN)
-- Decision Tree Classifier (CART)
-- Naive Bayes (NB)
-- Support Vector Classifier (SVC)
-- Random Forest Classifier (RFC)
-- Multi-Layer Perceptron Classifier (MLP)
+- Linear Discriminant Analysis 
+- K-Nearest Neighbors 
+- Decision Tree Classifier 
+- Naive Bayes
+- Support Vector Classifier
+- Random Forest Classifier 
+- Multi-Layer Perceptron Classifier 
 
